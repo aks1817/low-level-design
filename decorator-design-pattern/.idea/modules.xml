@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/strategy-pattern-design.iml" filepath="$PROJECT_DIR$/strategy-pattern-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator-design-pattern.iml" filepath="$PROJECT_DIR$/decorator-design-pattern.iml" />
     </modules>
   </component>
 </project>
